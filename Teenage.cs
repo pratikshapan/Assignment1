@@ -16,6 +16,7 @@ namespace Assignment1
             }
             else
                 Console.Write("Your are Not Teenager.\n");
+            Console.WriteLine();
 
         }
     }
